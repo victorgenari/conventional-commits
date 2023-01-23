@@ -4,7 +4,7 @@
   height="150"
 />
 
-# $${\color{purple}Conventional \space Commits}$$
+# Conventional Commits
 
 <div>Controle seus projetos da maneira correta.</div>
 <div>Abaixo temos uma especificação para adicionar significado legível por humanos e máquinas para confirmar mensagens.</div>
